@@ -66,3 +66,6 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 # Forms Gem
 gem 'simple_form'
+
+# User Authentication
+gem 'devise'
