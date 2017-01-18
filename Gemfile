@@ -55,3 +55,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Production Gem
 gem 'rails_12factor', group: :production
+
+# Testing Gem
+group :development, :test do
+  gem 'rspec-rails', '~> 3.5'
+end
