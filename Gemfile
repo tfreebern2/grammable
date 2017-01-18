@@ -60,3 +60,6 @@ gem 'rails_12factor', group: :production
 group :development, :test do
   gem 'rspec-rails', '~> 3.5'
 end
+
+# Bootstrap
+gem 'bootstrap-sass', '~> 3.3.6'
