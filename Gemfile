@@ -70,3 +70,6 @@ gem 'simple_form'
 
 # User Authentication
 gem 'devise'
+
+# Image Uploading
+gem 'carrierwave', '~> 1.0'
