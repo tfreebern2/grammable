@@ -73,3 +73,5 @@ gem 'devise'
 
 # Image Uploading
 gem 'carrierwave', '~> 1.0'
+gem 'figaro'
+gem 'fog'
