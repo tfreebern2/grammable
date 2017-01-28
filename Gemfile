@@ -63,7 +63,8 @@ group :development, :test do
 end
 
 # Bootstrap
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.3.7'
+gem 'sprockets'
 
 # Forms Gem
 gem 'simple_form'
